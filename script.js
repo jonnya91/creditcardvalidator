@@ -84,3 +84,5 @@ const idInvalidCardCompanies = invalid => {
     return companies;
 }
 console.log(idInvalidCardCompanies(batch));
+
+console.log('by Jonny Alderton');
